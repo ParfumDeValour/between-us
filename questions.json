@@ -1,0 +1,122 @@
+[
+  {
+    "id": "q01",
+    "cat": "love",
+    "ua": "Який ідеальний вечір для мене?",
+    "en": "What is my ideal evening?"
+  },
+  {
+    "id": "q02",
+    "cat": "food",
+    "ua": "Яку страву я міг/могла б їсти щотижня?",
+    "en": "Which dish could I eat every week?"
+  },
+  {
+    "id": "q03",
+    "cat": "travel",
+    "ua": "Куди я найбільше хочу поїхати?",
+    "en": "Where do I most want to travel?"
+  },
+  {
+    "id": "q04",
+    "cat": "habits",
+    "ua": "Що найшвидше піднімає мені настрій?",
+    "en": "What cheers me up the fastest?"
+  },
+  {
+    "id": "q05",
+    "cat": "love",
+    "ua": "Який прояв турботи для мене найважливіший?",
+    "en": "Which expression of care matters most to me?"
+  },
+  {
+    "id": "q06",
+    "cat": "fun",
+    "ua": "Який фільм або серіал я готовий/готова передивлятися?",
+    "en": "Which movie or series could I rewatch?"
+  },
+  {
+    "id": "q07",
+    "cat": "future",
+    "ua": "Яке моє найбільше бажання на найближчі роки?",
+    "en": "What is my biggest wish for the next few years?"
+  },
+  {
+    "id": "q08",
+    "cat": "habits",
+    "ua": "Що мене найбільше дратує в побуті?",
+    "en": "What annoys me most in everyday life?"
+  },
+  {
+    "id": "q09",
+    "cat": "food",
+    "ua": "Який напій я оберу в кафе?",
+    "en": "Which drink would I choose at a café?"
+  },
+  {
+    "id": "q10",
+    "cat": "fun",
+    "ua": "Який подарунок мене справді потішить?",
+    "en": "What gift would genuinely make me happy?"
+  },
+  {
+    "id": "q11",
+    "cat": "love",
+    "ua": "Як я зазвичай показую, що сумую?",
+    "en": "How do I usually show that I miss you?"
+  },
+  {
+    "id": "q12",
+    "cat": "travel",
+    "ua": "Який відпочинок мені ближчий: море, гори чи місто?",
+    "en": "Which holiday suits me best: sea, mountains, or city?"
+  },
+  {
+    "id": "q13",
+    "cat": "habits",
+    "ua": "Що я найчастіше відкладаю на потім?",
+    "en": "What do I most often put off?"
+  },
+  {
+    "id": "q14",
+    "cat": "future",
+    "ua": "Що для мене означає комфортне життя?",
+    "en": "What does a comfortable life mean to me?"
+  },
+  {
+    "id": "q15",
+    "cat": "fun",
+    "ua": "Яку суперсилу я б обрав/обрала?",
+    "en": "Which superpower would I choose?"
+  },
+  {
+    "id": "q16",
+    "cat": "love",
+    "ua": "Що для мене важливіше під час сварки?",
+    "en": "What matters more to me during an argument?"
+  },
+  {
+    "id": "q17",
+    "cat": "food",
+    "ua": "Який десерт я оберу першим?",
+    "en": "Which dessert would I choose first?"
+  },
+  {
+    "id": "q18",
+    "cat": "travel",
+    "ua": "Яку країну я хотів/хотіла б відвідати повторно?",
+    "en": "Which country would I like to visit again?"
+  },
+  {
+    "id": "q19",
+    "cat": "future",
+    "ua": "Яку спільну мрію я хочу здійснити з партнером?",
+    "en": "Which shared dream do I want to make real with my partner?"
+  },
+  {
+    "id": "q20",
+    "cat": "fun",
+    "ua": "Що найкраще описує мій ідеальний вихідний?",
+    "en": "What best describes my perfect day off?"
+  }
+]
